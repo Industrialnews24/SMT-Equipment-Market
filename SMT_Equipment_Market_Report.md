@@ -1,7 +1,7 @@
 
 # Global Surface Mount Technology (SMT) Equipment Market Overview
 
-The global Surface Mount Technology (SMT) Equipment Market was valued at **US$ 5.7 billion in 2022** and is projected to expand at a robust compound annual growth rate (CAGR) of **5.9% between 2023 and 2031**, reaching **US$ 9.1 billion** by the end of the forecast period. SMT equipment, including pick-and-place machines, solder paste printers, reflow ovens, and automated inspection systems, serves as the backbone of electronics manufacturing, enabling high-speed, high-precision assembly of components onto printed circuit boards (PCBs).
+The global [Surface Mount Technology (SMT) Equipment Market](https://www.transparencymarketresearch.com/smt-equipment-market.html) was valued at **US$ 5.7 billion in 2022** and is projected to expand at a robust compound annual growth rate (CAGR) of **5.9% between 2023 and 2031**, reaching **US$ 9.1 billion** by the end of the forecast period. SMT equipment, including pick-and-place machines, solder paste printers, reflow ovens, and automated inspection systems, serves as the backbone of electronics manufacturing, enabling high-speed, high-precision assembly of components onto printed circuit boards (PCBs).
 
 ## Market Drivers & Trends
 
